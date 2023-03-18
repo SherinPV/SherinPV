@@ -1,8 +1,8 @@
-[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500009/102165920-vector-line-web-concept-for-programming-linear-web-banner-learn-to-code.jpg)]
+[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)]
 
 <h1 align="center">Hi 👋, I'm Sherin</h1>
 <h3 align="center">A passionate QA Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTI4ZmM3YzYzZDFhODE1M2FmMTFjMmE4NTE2MzIwOTc5MDI4MjVhYSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherinpv&label=Profile%20views&color=0e75b6&style=flat" alt="sherinpv" /> </p>
 
