@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9)]
+[![MasterHead](https://static.vscdn.net/images/careers/demo/booking/1648625147::HeroCampaign_Motion_v2.gif)]
 
 <h1 align="center">Hi 👋, I'm Sherin</h1>
 <h3 align="center">A passionate QA Engineer from India</h3>
