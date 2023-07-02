@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ML & AI**
 
-- 💬 Ask me about **Bussiness analysis and software development**
+- 💬 Ask me about **software development and Data Analysis**
 
 - 📫 How to reach me **Sherinpv141@gmail.com**
 
