@@ -1,14 +1,14 @@
 [![MasterHead](https://static.vscdn.net/images/careers/demo/booking/1648625147::HeroCampaign_Motion_v2.gif)]
 
 <h1 align="center">Hi 👋, I'm Sherin</h1>
-<h3 align="center">A passionate Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTI4ZmM3YzYzZDFhODE1M2FmMTFjMmE4NTE2MzIwOTc5MDI4MjVhYSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherinpv&label=Profile%20views&color=0e75b6&style=flat" alt="sherinpv" /> </p>
 
 - 🌱 I’m currently learning **ML & AI**
 
-- 💬 Ask me about **software development and Data Analysis**
+- 💬 Ask me about **Software development and Data Analysis**
 
 - 📫 How to reach me **Sherinpv141@gmail.com**
 
