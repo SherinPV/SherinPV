@@ -2,8 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Sherin</h1>
 <h3 align="center">A Data Analyst turning business questions into actionable insights</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTI4ZmM3YzYzZDFhODE1M2FmMTFjMmE4NTE2MzIwOTc5MDI4MjVhYSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
-
+<!-- Animated GIF - Clean Layout -->
+<h3 align="right">💻 Coding + Analysis</h3>
+<img align="right" alt="Coding" width="400" 
+     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTI4ZmM3YzYzZDFhODE1M2FmMTFjMmE4NTE2MzIwOTc5MDI4MjVhYSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherinpv&label=Profile%20views&color=0e75b6&style=flat" alt="sherinpv" /> </p>
 
 - 👨‍💻 Currently working as a **Data Analyst**  
@@ -14,16 +16,21 @@
 - ⚡ Fun fact: I sing better than Excel functions 🎤😉
 
 ---
-
-### 🛠️ Tools & Tech Stack
+### 🛠️ Tools & Technologies I Use
 <p align="left">
-  <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+  <!-- Core Analyst Tools -->
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+
+  <!-- Smart Exposure to AI/Cloud -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+
+  <!-- Enterprise/Workplace Tools -->
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
 </p>
 
 ---
