@@ -1,4 +1,4 @@
-![logo](https://github.com/SherinPV/Sherin-PV/blob/main/68747470733a2f2f7374617469632e767363646e2e6e65742f696d616765732f636172656572732f64656d6f2f626f6f6b696e672f313634383632353134373a3a4865726f43616d706169676e5f4d6f74696f6e5f76322e676966.gif)
+[![MasterHead]("https://drive.google.com/file/d/1NvI-4_1tLrZpOMAkT7vmD17PP8S0-Kn3/view?usp=drive_link")]
 <h1 align="center">Hi 👋, I'm Sherin</h1>
 <h3 align="center">A Data Analyst turning business questions into actionable insights</h3>
 <!-- Animated GIF - Clean Layout -->
@@ -11,7 +11,7 @@
 - 📈 Specializing in **data cleaning, dashboarding, reporting, and automation**  
 - 🧰 Tools I use: **Excel, Power BI, SQL, Python, SAP, SFDC**  
 - 💬 Talk to me about **business insights, reporting automation, and Power BI**  
-- 🎯 Career Goal: To grow into a **BI Developer / Data Scientist**  
+- 📫 How to reach me **rishavchanda0@gmail.com** 
 - ⚡ Fun fact: I sing better than Excel functions 🎤😉
 
 ---
@@ -32,8 +32,6 @@
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
 </p>
 
----
-
 <!--### 📊 GitHub Stats
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sherinpv&show_icons=true&theme=default" />
@@ -44,8 +42,6 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherinpv&layout=compact" />
 </p> -->
-
----
 
 ### 📬 Connect with me
 <p align="left">
